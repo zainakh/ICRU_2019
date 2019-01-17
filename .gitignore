@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*.ods
+Notes/*
+.ipynb_checkpoints
+.idea
