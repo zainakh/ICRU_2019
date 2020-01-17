@@ -10,9 +10,10 @@ Adjective distance returns the nearest adjectives, as determined by a Word2Vec d
 Finally, the visualization script contains the network illustration that is present on the final poster. An example network can be seen in that file using data collected from the aforementioned scripts. 
 
 To run this project, follow the instructions listed below (for simplicity I will assume it is cloned in the home directory): 
+```
   git clone https://github.com/zainakh/ICRU_2019.git
   cd ICRU_2019
   pipenv install 
   pipenv shell
   jupyter lab
- 
+```
