@@ -17,3 +17,6 @@ To run this project, follow the instructions listed below (for simplicity I will
   pipenv shell
   jupyter lab
 ```
+
+An example network that was produced using election tweets collected in 2016 is pictured here surrounding Donald Trump: 
+![An example network centered around Donald Trump.](TrumpNetwork.png)
